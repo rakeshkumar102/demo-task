@@ -1,0 +1,3 @@
+/var/lib/jenkins/workspace/maven/src/test/java/org/apache/maven/shared/project/utils/ScmUtilsTest.java
+/var/lib/jenkins/workspace/maven/src/test/java/org/apache/maven/shared/project/utils/ProjectUtilsTest.java
+/var/lib/jenkins/workspace/maven/src/test/java/org/apache/maven/shared/project/runtime/MavenUtilsTest.java
